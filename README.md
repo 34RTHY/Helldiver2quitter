@@ -38,3 +38,6 @@ If you want to build the executable yourself, follow these steps:
     pip install psutil keyboard pywin32 pyinstaller
 ### 2.Run PyInstaller:
     pyinstaller --onefile main.py
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
